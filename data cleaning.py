@@ -1,4 +1,4 @@
-# Dinosar data
+DINOSAR DATA
 
 import pandas as pd
 
@@ -29,7 +29,7 @@ df.dropna(inplace=True)
 print(df)
 
 
-# Laptop Data
+LAPTOP DATA
 
 import pandas as pd
 
@@ -60,7 +60,7 @@ df.dropna(inplace=True)
 print(df)
 
 
-# Phone data
+PHONE DATA
 
 #loading the data into pandas
 import pandas as pd
@@ -79,7 +79,7 @@ df.dropna(inplace=True)
 print(df)
 
 
-# House Data
+HOUSE DATA
 
 import pandas as pd
 
@@ -96,7 +96,7 @@ df = df.dropna()
 print(df)
 
 
-# Heroes Information
+HEROES INFORMATION
 
 import pandas as pd
 
@@ -118,7 +118,7 @@ df = df.dropna()
 print(df)
 
 
-# Marvel movies
+MARVEL MOVIES
 
 import pandas as pd
 
