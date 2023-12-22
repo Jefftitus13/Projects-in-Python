@@ -67,3 +67,4 @@ Utilized Matplotlib for visualizing IMDb ratings and meta scores:
 
 ## Acknowledgments
 - Dataset sources: Kaggle.com
+- Tool used: Jupyter note book
